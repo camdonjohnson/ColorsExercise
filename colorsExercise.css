@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(255, 149, 0);
+}
+
+h3 {
+    color: #fff700;
+}
+
+h4 {
+    color: #2f0
+}
+
+h5 {
+    color: #02f;
+}
+
+h6 {
+    color: rgb(100, 0, 146);
+}
+
+p {
+    color:rgba(195, 0, 255, 1);
+    font-size: 9px;
+}
